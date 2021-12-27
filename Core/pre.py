@@ -1,8 +1,5 @@
-import os 
-import sys
-import time
-import json
-import requests,random
+import os
+import random
 try:
 	from colorama import Fore, Style
 except ModuleNotFoundError:
@@ -23,22 +20,6 @@ def connected(host='http://duckduckgo.com'):
         return False
 
 
-def autoupdate():
-		with open('config.json') as json_file:
-			data = json.load(json_file)
-		if data['check-for-updates'] == "yes":
-			print(alert + " Checking for updates...")
-			test = requests.get("https://raw.githubusercontent.com/Saadkhan041/CyberPhish/master/Version.dat")
-			time.sleep(2)
-			if Version in test.text:
-				print(start + " You Are Using PhishMailer v.{}, you are upto date!".format(Version))
-				time.sleep(2)
-				os.system('clear')
-			else:
-				print(alert + "https://github.com/Saadkhan041/CyberPhish.git")
-				sys.exit()
-		else:
-			pass
 
 all_col = [Style.BRIGHT + Fore.RED, Style.BRIGHT + Fore.CYAN, Style.BRIGHT + Fore.LIGHTCYAN_EX,
 			   Style.BRIGHT + Fore.LIGHTBLUE_EX, Style.BRIGHT + Fore.LIGHTCYAN_EX, Style.BRIGHT + Fore.LIGHTMAGENTA_EX,
@@ -85,7 +66,6 @@ def menu():
 	print(green + "[" + white + "11" + green + "]" + white + " Playstation" + green + "	        [" + white + "22" + green + "]" + white + " Mega")
 	print(green + "-----------------------------------------------------------------------")
 	print(green + "[" + white + "00" + green + "]" + red + " EXIT")
-	print(green + "[" + white + "99" + green + "]" + red + " Update")
 def Welcome():
 	os.system("clear")
 	

@@ -125,8 +125,7 @@ while cont not in no:
 
             elif mailPick == 69:
                 RedirectionMain()
-            elif mailPick == 99:
-                autoupdate()
+
             elif mailPick == 00:
                 os.system("clear")
                 print("Hope I See You Soon")
