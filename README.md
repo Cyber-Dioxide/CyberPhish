@@ -7,7 +7,7 @@ This tool is creqted only for educational purpose. We are not responsible for an
 # Usage:
 1. apt install python3
 2. pip install colorama
-3. git clone https://github.com/Saadkhan041/CyberPhish
+3. git clone https://github.com/Cyber-Dioxide/CyberPhish
 4. cd CyberPhish
 5. ls
 6. chmod +x *
@@ -19,4 +19,4 @@ This tool is creqted only for educational purpose. We are not responsible for an
 ![Screenshot (171)](https://user-images.githubusercontent.com/93708296/147446986-8e2f40d2-5534-4541-b878-ab8177dcc338.png)
 
 # Help
-For any question iam mostly active on instagram @saadkhan041 or @coding_memz
+For any question iam mostly active on instagram @cyber_dioxide , @cyber_dioxide_
