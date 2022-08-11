@@ -24,4 +24,4 @@ This tool is creqted only for educational purpose. We are not responsible for an
 
 
 # Help
-For any question iam mostly active on instagram @cyber_dioxide , @cyber_dioxide_
+For any question iam mostly active on instagram @cyber_dioxide , @coding_memz
