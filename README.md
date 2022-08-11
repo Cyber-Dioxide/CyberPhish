@@ -4,7 +4,7 @@ A heavily armed customizable phishing tool for educational purpose only
 # Note:
 This tool is creqted only for educational purpose. We are not responsible for any harm caused by you. Therefore better to try this tool on yourself!
 # Youtube Tutorial:
-* -> 
+* ->  https://www.youtube.com/watch?v=rDFyBmRV9sE
 
 # Usage:
 1. apt install python3
