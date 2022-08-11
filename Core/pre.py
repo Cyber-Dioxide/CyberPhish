@@ -11,7 +11,27 @@ from Core.helper.color import green, white, blue, red, start, alert
 Version = "2.2"
 yellow = ("\033[1;33;40m")
 
-
+bannerrr = f"""
+ ▄████████ ▄██   ▄   ▀█████████▄     ▄████████    ▄████████  
+███    ███ ███   ██▄   ███    ███   ███    ███   ███    ███  
+███    █▀  ███▄▄▄███   ███    ███   ███    █▀    ███    ███  
+███        ▀▀▀▀▀▀███  ▄███▄▄▄██▀   ▄███▄▄▄      ▄███▄▄▄▄██▀  
+███        ▄██   ███ ▀▀███▀▀▀██▄  ▀▀███▀▀▀     ▀▀███▀▀▀▀▀    
+███    █▄  ███   ███   ███    ██▄   ███    █▄  ▀███████████  
+███    ███ ███   ███   ███    ███   ███    ███   ███    ███  
+████████▀   ▀█████▀  ▄█████████▀    ██████████   ███    ███  
+                                                 ███    ███  
+   ▄███████▄    ▄█    █▄     ▄█     ▄████████    ▄█    █▄    
+  ███    ███   ███    ███   ███    ███    ███   ███    ███   
+  ███    ███   ███    ███   ███▌   ███    █▀    ███    ███   
+  ███    ███  ▄███▄▄▄▄███▄▄ ███▌   ███         ▄███▄▄▄▄███▄▄ 
+▀█████████▀  ▀▀███▀▀▀▀███▀  ███▌ ▀███████████ ▀▀███▀▀▀▀███▀  
+  ███          ███    ███   ███           ███   ███    ███   
+  ███          ███    ███   ███     ▄█    ███   ███    ███   
+ ▄████▀        ███    █▀    █▀    ▄████████▀    ███    █▀    
+                                                             
+					Author: Saad Khan | Cyber-Dioxide
+"""
 def connected(host='http://duckduckgo.com'):
     try:
         urlopen(host)
@@ -28,26 +48,15 @@ all_col = [Style.BRIGHT + Fore.RED, Style.BRIGHT + Fore.CYAN, Style.BRIGHT + For
 ran = random.choice(all_col)
 def banner():
 
-		print(Style.BRIGHT + Fore.LIGHTCYAN_EX, "\n", "- " * 4, " [+] Follow me on Instagram @cyber_dioxide ", "- " * 4)
-		print(Style.BRIGHT + Fore.LIGHTYELLOW_EX, "\n", "- " * 4, " [+] Coding Instagram @cyber_dioxide_ ", "- " * 4)
+		print(Style.BRIGHT + Fore.LIGHTCYAN_EX, "- " * 4, " [+] Follow me on Instagram @cyber_dioxide ", "- " * 4)
+		print(Style.BRIGHT + Fore.LIGHTYELLOW_EX, "\n", "- " * 4, " [+] Coding Instagram @coding_memz ", "- " * 4)
 		print(Style.BRIGHT + Fore.LIGHTRED_EX, "\n", "- " * 4, "[+] Github: https://github.com/Cyber-Dioxide/ ", "- " * 3)
 
 
 banner()
         
 def menu():
-	print(blue +  " ██████╗██╗   ██╗██████╗ ███████╗██████╗" + white )
-	print(white  +"██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗")
-	print(blue +  "██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝")
-	print(green + "██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗" + white+ blue + white)
-	print(green + "╚██████╗   ██║   ██████╔╝███████╗██║  ██║")
-	print(red +  "██████╗ ██╗  ██╗██╗███████╗██╗  ██╗" )
-	print(white+ "██╔══██╗██║  ██║██║██╔════╝██║  ██║" + green)
-	print(yellow+"██████╔╝███████║██║███████╗███████║" +  blue)
-	print(yellow+"██╔═══╝ ██╔══██║██║╚════██║██╔══██║" + green)
-	print(yellow+"██║     ██║  ██║██║███████║██║  ██║")
-	print(red+   "╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ")
-
+	print(f"{ran}{bannerrr}")
 	banner()
 
 	print(alert + " More Versions Will Come Soon Stay Updated, Follow My Github\n")
