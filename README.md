@@ -6,7 +6,6 @@ This tool is creqted only for educational purpose. We are not responsible for an
 # Youtube Tutorial:
 - https://www.youtube.com/watch?v=A8OvF2tFirQ
 
-<iframe src="https://www.youtube.com/watch?v=A8OvF2tFirQ" width="500" height="360"></iframe>
 
 
 # Usage:
