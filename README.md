@@ -1,6 +1,10 @@
 # CyberPhish
 A heavily armed customizable phishing tool for educational purpose only
 
+# Telegram
+* Join Telegram Channel For hacking https://t.me/cyber_diox
+* Contact me on telegram #coding_memz
+
 # Service
 * I will host your phishing site for as long as required without getting banned, for more information dm me on instagram @coding_memz.
 * For custom phishing website template dm me on instagram @coding_memz
