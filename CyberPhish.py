@@ -3,7 +3,7 @@ import sys
 from sys import version_info
 
 if version_info<(3,0,0):
-    print('[!] Please use Python 3. $ python3 CyberPhish.py')
+    print('[!] Please use Python 3 for windows . $ python3 CyberPhish.py in linux')
     sys.exit()
 
 
@@ -134,12 +134,12 @@ while cont not in no:
 
             else:
                 print("\nSomething Went Wrong There Partner")
-                print("Are You Ok? Did You Fell Out The Boat And Started Drowning?")
+                print("Are You Ok? Did You Fall Out The Boat And Started Drowning?")
                 sys.exit()
 
         except ValueError:
             print("\nSomething Went Wrong There Partner")
-            print("Are You Ok? Did You Fell Out The Boat And Started Drowning?")
+            print("Are You Ok? Did You Fall Out The Boat And Started Drowning?")
             sys.exit()
         except KeyboardInterrupt:
             print("\nExiting tool....")
