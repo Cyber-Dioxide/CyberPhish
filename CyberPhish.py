@@ -1,11 +1,10 @@
-
+import platform
 import sys
 from sys import version_info
 
-if version_info<(3,0,0):
+if version_info < (3, 0, 0):
     print('[!] Please use Python 3. $ python3 CyberPhish.py')
     sys.exit()
-
 
 from Core.eletter import Instagram
 from Core.eletter import Facebook
@@ -31,25 +30,28 @@ from Core.ipmenu import Paypal1
 from Core.ipmenu import Snapchat
 from Core.pre import *
 from Core.helper.RedirectBypass import *
+from rgbprint import gradient_print
+from colorama import Fore
 
-
-
-red = ("\033[1;31;40m")
-green = ("\033[1;32;40m")
-white = ("\033[1;37;40m")
-blue = ("\033[1;34;40m")
+red = Fore.RED
+green = Fore.GREEN
+white = Fore.WHITE
+blue = Fore.CYAN
 
 os.system("clear")
 
+
 def CurrentDir():
-	path = os.getcwd()
-	print(green + "[" + white + "+" + green + "]" + white + " Your Templates Will Be Saved Here " + path + '/"TemplateName.html"')
+    path = os.getcwd()
+    print(
+        green + "[" + white + "+" + green + "]" + white + " Your Templates Will Be Saved Here " + path + '/"TemplateName.html"')
 
 
-no = ["n" , "no"]
+no = ["n", "no"]
 cont = ""
 while cont not in no:
     def mainMenu():
+        os.system("cls") if 'Windows' in platform.platform() else os.system('clear')
         menu()
 
         print(green)
@@ -127,26 +129,27 @@ while cont not in no:
                 RedirectionMain()
 
             elif mailPick == 00:
-                os.system("clear")
-                print("Hope I See You Soon")
-                print("Happy Phishing")
+                os.system("cls") if 'Windows' in platform.platform() else os.system('clear')
+                print("- Hope I See You Soon")
+                print("- Happy Phishing")
                 sys.exit()
 
             else:
-                print("\nSomething Went Wrong There Partner")
-                print("Are You Ok? Did You Fell Out The Boat And Started Drowning?")
+                print("\n- Something Went Wrong There Partner")
                 sys.exit()
 
         except ValueError:
             print("\nSomething Went Wrong There Partner")
-            print("Are You Ok? Did You Fell Out The Boat And Started Drowning?")
+
             sys.exit()
         except KeyboardInterrupt:
             print("\nExiting tool....")
             Welcome()
+
+
     mainMenu()
 
-    cont = input(red+"Do you want to continue? [y/n] :")
-    if cont =="y":
-        os.system("clear")
-        banner()
+    cont = input(red + "Do you want to continue? [y/n] :")
+    if cont == "y":
+        os.system("cls") if 'Windows' in platform.platform() else os.system('clear')
+        menu()
