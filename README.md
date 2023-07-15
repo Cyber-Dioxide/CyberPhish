@@ -13,8 +13,9 @@ A heavily armed customizable phishing tool for educational purpose only. It cont
 # New Release Screenshot
 ![Screenshot 2023-07-15 133136](https://github.com/Cyber-Dioxide/CyberPhish/assets/93708296/b993cdf0-c884-4423-a775-cc3c58c895c8)
 
-# Note:
-This tool is creqted only for educational purpose. We are not responsible for any harm caused by you. Therefore better to try this tool on yourself!
+# Custom Template
+For creating your own phishing page, phishing template of any website. Dm me on telegram or instagram @coding_memz
+
 # Youtube Tutorial:
 - https://www.youtube.com/watch?v=A8OvF2tFirQ
 
@@ -28,7 +29,7 @@ Donate some BTC for future projects
 3. git clone https://github.com/Cyber-Dioxide/CyberPhish
 4. cd CyberPhish
 5. ls
-6. chmod +x *
+6. pip install requirements.txt
 7. python3 CyberPhish.py
 8. !Enjoy!
 
