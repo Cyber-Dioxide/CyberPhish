@@ -20,7 +20,7 @@ This tool is creqted only for educational purpose. We are not responsible for an
 
 # Motivation
 Donate some BTC for future projects
-![photo_2023-07-15_12-02-01](https://github.com/Cyber-Dioxide/CyberPhish/assets/93708296/a46dde07-33fb-413f-bf42-1ef254479a94)
+* Btc Wallet: bc1q4lzj4wjfvjj4luta7c0s6vy7cknjvz0e6dku3y
 
 # Usage:
 1. apt install python3
