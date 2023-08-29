@@ -3,8 +3,8 @@ A heavily armed customizable phishing tool for educational purpose only. It cont
 # 2FA Bypass
 I can code custom phishing page along with 2FA Bypass. I currently have Instagram, Facebook 2FA bypass. Ping me on Telegram if you are intrested to buy. @coding_memz
 # Telegram
-* Join Telegram Channel For hacking https://t.me/cyber_diox
-* Contact me on telegram #coding_memz
+
+* Contact me on telegram @coding_memz
 
 # Service
 * I will host your phishing site for as long as required without getting banned, for more information dm me on instagram @coding_memz.
