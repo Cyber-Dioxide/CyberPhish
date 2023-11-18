@@ -1,7 +1,10 @@
 # CyberPhish
 A heavily armed customizable phishing tool for educational purpose only. It contains phishing email templates of mostly used social media platforms.
-# 2FA Bypass
-I can code custom phishing page along with 2FA Bypass. I currently have Instagram, Facebook 2FA bypass. Ping me on Telegram if you are intrested to buy. @coding_memz
+# Tutorial:
+I have made 3 youtube videos, they delete it, so i purchased our own website to publish scuh amazing blogs. Do check it out.
+
+[Cyber Phish Blog](https://www.cyberdioxide.com/2023/11/cyber-phish-next-generation-of-phishing.html)
+
 # Telegram
 * Join Telegram Channel https://t.me/cyber_dioxid
 * Contact me on telegram @coding_memz
