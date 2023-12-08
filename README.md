@@ -31,9 +31,9 @@ Donate some BTC for future projects
 1. apt install python3
 3. git clone https://github.com/Cyber-Dioxide/CyberPhish
 4. cd CyberPhish
-6. pip install -r requirements.txt
-7. python3 CyberPhish.py
-8. !Enjoy!
+5. pip install -r requirements.txt
+6. python3 CyberPhish.py
+7. !Enjoy!
 
 
 # Old Release Screenshot
