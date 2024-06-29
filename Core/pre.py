@@ -1,4 +1,4 @@
-import os
+ideimport os
 import random
 from rgbprint import gradient_print
 
@@ -27,7 +27,7 @@ banner = f"""
 			</> Author: Saad Khan | Cyber Dioxide
 
 	===========================================================
-			Telegram @coding_memz
+			Telegram @cyberoxide
 	===========================================================
 """
 
