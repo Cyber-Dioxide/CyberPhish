@@ -1,4 +1,4 @@
-ideimport os
+import os
 import random
 from rgbprint import gradient_print
 
