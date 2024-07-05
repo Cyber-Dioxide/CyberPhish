@@ -1,7 +1,7 @@
 # CyberPhish
 A heavily armed customizable phishing tool for educational purpose only. It contains phishing email templates of mostly used social media platforms.
 # Tutorial:
-I have made 3 youtube videos, they delete it, so i purchased our own website to publish scuh amazing blogs. Do check it out.
+I have made 3 youtube videos, they delete it, so i purchased our own website to publish such amazing blogs. Do check it out.
 
 [Cyber Phish Blog](https://www.cyberdioxide.com/2023/11/cyber-phish-next-generation-of-phishing.html)
 
