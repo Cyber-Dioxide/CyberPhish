@@ -7,7 +7,7 @@ I have made 3 youtube videos, they delete it, so i purchased our own website to 
 
 # Telegram
 * Join Telegram Channel https://t.me/cyber_dioxid
-* Contact me on telegram @cyberoxide
+* Contact me on [Telegram](https://www.cyberdioxide.com/p/contact.html)
 
 # Service
 * I will host your phishing site for as long as required without getting banned, for more information dm me on instagram @coding_memz.
