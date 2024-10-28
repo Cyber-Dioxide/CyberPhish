@@ -3,11 +3,11 @@ A heavily armed customizable phishing tool for educational purpose only. It cont
 # Tutorial:
 I have made 3 youtube videos, they delete it, so i purchased our own website to publish scuh amazing blogs. Do check it out.
 
-[Cyber Phish Blog](https://www.cyberdioxide.com/2023/11/cyber-phish-next-generation-of-phishing.html)
+[Cyber Phish Blog](http://www.cyox2.com/2023/11/cyber-phish-next-generation-of-phishing.html)
 
 # Telegram
 * Join Telegram Channel https://t.me/cyber_dioxid
-* Contact me on [Telegram](https://www.cyberdioxide.com/p/contact.html)
+* Contact me on [Telegram](http://www.cyox2.com/p/contact.html)
 
 # Service
 * I will host your phishing site for as long as required without getting banned, for more information dm me on instagram @coding_memz.
