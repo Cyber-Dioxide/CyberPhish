@@ -29,13 +29,11 @@ Donate some BTC for future projects
 
 # Usage:
 1. apt install python3
-2. pip install colorama
 3. git clone https://github.com/Cyber-Dioxide/CyberPhish
 4. cd CyberPhish
-5. ls
-6. pip install -r requirements.txt
-7. python3 CyberPhish.py
-8. !Enjoy!
+5. pip install -r requirements.txt
+6. python3 CyberPhish.py
+7. !Enjoy!
 
 
 # Old Release Screenshot
