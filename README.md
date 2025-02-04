@@ -6,7 +6,7 @@ I have made 3 youtube videos, they delete it, so i purchased our own website to 
 [Cyber Phish Blog](http://www.cyox2.com/2023/11/cyber-phish-next-generation-of-phishing.html)
 
 # Telegram
-* Join Exclusive Educational Telegram Channel https://t.me/cyber_dioxid
+* Join Exclusive Educational Telegram Channel https://t.me/cyox2
 * Contact me on [Telegram](http://www.cyox2.com/p/contact.html)
 
 # Service
